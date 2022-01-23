@@ -73,7 +73,7 @@ def show_program():
                     %sINFORMATION%s
  ------------------------------------------------------
 
-    Author     Kunyim  'termux.id'
+    Author     Reaper-XD  'termux.id'
     Name       OSIF 'Open Source Information Facebook'
     CodeName   termux.id
     version    full version
